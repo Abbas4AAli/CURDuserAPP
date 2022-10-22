@@ -1,0 +1,12 @@
+.navbar-brand{
+   border: 1px solid black;
+   padding: 5px 5px;
+   border-radius: 5px;
+   font-weight: bold;
+   transition: 0.8s;
+}
+
+:hover.navbar-brand{
+    border-radius: 10px;
+    background-color: rgb(78, 119, 244);
+ }
